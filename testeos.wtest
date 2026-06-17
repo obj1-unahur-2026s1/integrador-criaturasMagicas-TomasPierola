@@ -1,7 +1,7 @@
 import criaturas.*
 import colonias-areas-conquistas.*
 import roles.*
-
+// pequeño comentario para asegurar que el push anda
 describe "creacion de criaturas" {
   const duende1 = new Duende(poderMagico=10, astucia=5, rol=new Hechicero())
   const hada1 = new Hada(poderMagico=10, astucia=5, rol=new Guardian())
