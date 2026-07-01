@@ -1,5 +1,5 @@
 import roles.*
-
+// comentario para comprobar que anda
 class Criaturas {
   var poderMagico
   var property astucia 
